@@ -45,6 +45,13 @@ header img {
 .shadow {
 	text-shadow: 2px 2px 2px #800000;
 }
+
+#nav_menu ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	position: relative;
+}
 #nav_menu ul li {
 	float: left;
 }
